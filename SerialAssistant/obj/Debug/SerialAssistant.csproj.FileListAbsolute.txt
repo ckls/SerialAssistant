@@ -7,3 +7,12 @@ E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateR
 E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
 E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.exe
 E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\bin\Release\SerialAssistant.exe
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\bin\Release\SerialAssistant.pdb
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Release\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Release\SerialAssistant.Form1.resources
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Release\SerialAssistant.Properties.Resources.resources
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Release\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Release\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Release\SerialAssistant.exe
+C:\Users\zzy\Desktop\C# UART\C# UART\SerialAssistant\obj\Release\SerialAssistant.pdb
